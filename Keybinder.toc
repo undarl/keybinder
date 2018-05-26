@@ -1,0 +1,10 @@
+## Interface: 70200
+## Version: 1.0
+## Title: Keybinder
+## Notes: Quick and dirty keybinder for macros and spells.
+## Author: Kuuyi of Uldaman-US
+## X-Category: ?
+
+Keybinder.lua
+
+
