@@ -1,5 +1,5 @@
-## Interface: 80000
-## Version: 1.80000
+## Interface: 100002
+## Version: 2.00000
 ## Title: Keybinder
 ## Notes: Quick and dirty keybinder for macros and spells.
 ## Author: Kuuyi of Uldaman-US
